@@ -43,8 +43,8 @@ code {
   height: 64px;
   margin: 8px;
   border-radius: 50%;
-  border: 6px solid #fdd;
-  border-color: #fdd transparent #fdd transparent;
+  border: 6px solid blue;
+  border-color: blue transparent blue transparent;
   animation: lds-dual-ring 1.2s linear infinite;
 }
 @keyframes lds-dual-ring {
