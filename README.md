@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## You can also visit the page:
+https://react-todo-simple-app.herokuapp.com/
+
 ## Available Scripts
 
 In the project directory, you can run:
